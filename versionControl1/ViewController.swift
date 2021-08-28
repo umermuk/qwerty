@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
          print ("This project is working")
+        print("This is another version of this project")
     }
 
     override func didReceiveMemoryWarning() {
